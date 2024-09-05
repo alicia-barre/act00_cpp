@@ -4,7 +4,7 @@
  * 
  * \author Alicia
  * \version 1.0
- * \date   June 2024
+ * \date   SEPTEMBRE 2024
  * 
  * Programme Cpp permettant de creer des objets pour décrire les stages
  *********************************************************************/
